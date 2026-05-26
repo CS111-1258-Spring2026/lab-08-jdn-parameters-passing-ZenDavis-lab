@@ -16,7 +16,7 @@ public class Main
 
         // My birthday: 02/14/2004
         int birthDay = calcJulianDate(2, 14, 2004);
-        System.out.println("Your Birthday JDN (02/14/2004): " + birthDay);
+        System.out.println("Your Birthday JDN (12/21/2001): " + birthDay);
     }
 
     public static int calcJulianDate(int monthToday, int dayToday, int yearToday)
