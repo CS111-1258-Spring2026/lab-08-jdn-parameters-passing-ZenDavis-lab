@@ -15,7 +15,7 @@ public class Main
         System.out.println("Katherine Johnson JDN (08/26/1918): " + date1);
 
         // My birthday: 02/14/2004
-        int birthDay = calcJulianDate(2, 14, 2004);
+        int birthDay = calcJulianDate(12, 21, 2001);
         System.out.println("Your Birthday JDN (12/21/2001): " + birthDay);
     }
 
